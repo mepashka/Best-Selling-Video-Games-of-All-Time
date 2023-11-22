@@ -1,3 +1,5 @@
+[Ссылка на проект: ](https://github.com/mepashka/Best-Selling-Video-Games-of-All-Time/tree/main)
+
 # Best-Selling-Video-Games-of-All-Time
 
 ## Декомпозиция (план проекта)
